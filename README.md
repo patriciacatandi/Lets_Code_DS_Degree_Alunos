@@ -14,6 +14,14 @@ Os alunos são livres para tirar dúvidas ao longo da aula. <br>
   * Softskills 
   * Hardskills.
   * A nota de git depende de me passarem o repositório criado e dos conteúdos inseridos nele. <br>
+ 
+1.1 Exemplo - Numpy:
+ - [00] Não houve participação e/ou entregas suficientes do aluno para avaliar esse critério
+ - [01] O aluno ainda não tem familiaridade com o conceito
+ - [02] O aluno tem familiaridade com o conceito, mas ainda tem dificuldade de aplicá-lo em problemas específicos ou de escopo aberto
+ - [03] O aluno é capaz de aplicar os conceitos em problemas de escopo fechado (que trabalham especificamente esse conceito), mas ainda tem dificuldade em aplicá-lo em problemas de escopo aberto ou de forma autônoma
+ - [04] O aluno é capaz de aplicar os conceitos em problemas de escopo fechado e em problemas de escopo aberto de forma autônoma
+
 
 2 - Projeto em grupo a ser apresentado na penúltima aula.
 
