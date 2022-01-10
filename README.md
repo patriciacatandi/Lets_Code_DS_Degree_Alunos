@@ -9,7 +9,7 @@ Ao final de cada aula teremos exercícios que devem ser realizados em grupo. A p
 Os alunos são livres para tirar dúvidas ao longo da aula. <br>
 (?) Gravação das aulas
 
-## Avaliação
+## Avaliação feito pelo professor
 1 - Avaliação por rubrica: 
   * Softskills 
   * Hardskills.
@@ -24,6 +24,11 @@ Os alunos são livres para tirar dúvidas ao longo da aula. <br>
 
 
 2 - Projeto em grupo a ser apresentado na penúltima aula.
+
+## Avaliação feita pelos alunos
+1 - [Espaço](https://forms.gle/tShxhxNYhvi6ZmQm8) anônimo para vocês deixarem suas sugestões e\ou críticas a qualquer momento. <br>
+2 - Avaliação geral feita pela LC. O link é disponibilizado nas últimas aulas.
+
 
 ## Ementa
 |Data |	Aula	| Tema	| Assunto |
