@@ -1,0 +1,55 @@
+
+Pré requisitos: 
+
+    * 
+
+Ter uma conta no Github 
+    * 
+
+Ter previamente instalado o git. 
+    * 
+
+Ter configurado usuário e senha do github no seu git. 
+
+TENÇÃO: Curso será ministrado no sistema Linux e todos os comandos serão para esta
+plataforma . 
+
+
+EMENTA 
+
+
+Conceitos: 
+
+1) O que é Versionamento 
+
+2) O que é git 
+
+3) Repositórios, Branchs e Commits 
+
+4) Repositório Local x Remoto 
+
+5) Merge 
+
+6) GitHub 
+
+
+Prática: 
+
+1) Comandos básicos do git 
+
+2) Criação de repositório 
+
+3) Branchs e Commits 
+
+
+Desenvolvimento Colaborativo: 
+
+1) Gitflow 
+
+2) Pull Requests 
+
+3) Github Issues 
+
+4)Release 
+
+5) Fix/Hotfix 
