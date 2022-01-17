@@ -43,3 +43,21 @@ Os alunos são livres para tirar dúvidas ao longo da aula. <br>
 |28/01/2022	 | 8 |	Projeto	Mini Projeto - Pandas | Apresentação dos alunos |
 |31/01/2022	| 9 |	Avaliação	| Avaliação/ Avaliação por rubrica |
 
+## Projeto
+* Objetivo: realizar uma EDA (Exploratory Data Analysis) utilizando as bibliotecas do numpy e pandas.
+* O grupo poderá escolher uma base entre as fornecidas pelos professores ou escolherem uma outra base de dados que possa ser compartilhada.
+* Teremos 10 grupos com 4 pessoas e 3 grupos com 5 pessoas.
+* Grupos devem preencher o nome do participante e a base de dados escolhida no [link](https://docs.google.com/spreadsheets/d/1lWuWHb_d0_rz2wZaPPfDIwdFG3Xn2tf5CywFBhheI38/edit?usp=sharing)
+* Sugestão de [base de dados](https://docs.google.com/spreadsheets/d/1C5KinYE4wAuKvM_Vc1t5HK16n92B_7zoeT8v7ASVP6A/edit?usp=sharing)
+* A apresentação poderá ser construída em um jupyter notebook ou em slides
+* Storytelling
+* **Cada grupo terá no máximo 10 minutos para apresentar a EDA.**
+
+Pontos esperados:
+1) Apresente as características do conjunto de dados fornecido, destacando sua visão geral acerca do conjunto de dados e tecendo críticas e comentários.;
+2) Faça uma análise detalhada das variáveis numéricas e categóricas da base de dados, discutindo sua distribuição e outras características relevantes;
+3) Limpeza de dados: Considere a avaliação da existência de valores ausentes e de possíveis outliers, discutindo como estes podem ser tratados ou eliminados;
+4) Feature engineering: Quais variáveis você poderia criar para enriquecer a análise?
+5) Enriquecimento da base: Inclua qualquer outra informação/análise que achar importante.
+6) Que outras bases externas ou internas voce buscaria para enriquecer as
+análises?
