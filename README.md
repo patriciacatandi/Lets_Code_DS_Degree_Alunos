@@ -39,9 +39,9 @@ Os alunos são livres para tirar dúvidas ao longo da aula. <br>
 |17/01/2022	| 4	| Pandas	| Leitura de dados (read_csv, read_excel, read_clipboard) Métodos úteis (drop, rename, sort_values, sort_index, reset_index, max, min, mean, median, sum, cumsum, quantile, describe) |
 |19/01/2022	| 5	| Agrupamentos e concatenação	 | Manipulação de DataFrames (concat, merge, apply, groupby) |
 |21/01/2022 |	6	| Limpeza e Transformação de dados	| Limpeza de Dados (dropna, fillna, isnull, notnull, replace, duplicated, drop_duplicated) Transformação de Dados (cut, qcut, get_dummies) |
-|26/01/2022	| 7 |	Revisão |	Exercícios de Revisão |
-|28/01/2022	 | 8 |	Projeto	Mini Projeto - Pandas | Apresentação dos alunos |
-|31/01/2022	| 9 |	Avaliação	| Avaliação/ Avaliação por rubrica |
+|26/01/2022	| 7 |	Revisão |	Exercícios de Dúvida e Revisão |
+|28/01/2022	| 8 |	Avaliação	| Avaliação/ Avaliação por rúbrica |
+|31/01/2022	 | 9 |	Projeto	Mini Projeto - Pandas | Apresentação dos alunos |
 
 ## Projeto
 * Objetivo: realizar uma EDA (Exploratory Data Analysis) utilizando as bibliotecas do numpy e pandas.
