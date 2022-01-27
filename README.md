@@ -28,6 +28,8 @@ Os alunos são livres para tirar dúvidas ao longo da aula. <br>
 ## Avaliação feita pelos alunos
 1 - [Espaço](https://forms.gle/tShxhxNYhvi6ZmQm8) anônimo para vocês deixarem suas sugestões e\ou críticas a qualquer momento. <br>
 2 - Avaliação geral feita pela LC. O link é disponibilizado nas últimas aulas.
+ - Autoavaliação: https://forms.gle/DuetJL4YDxap2Mjw8
+ - Avaliação dos Professores: https://forms.gle/BwtJgBXoh4jidhJq6
 
 
 ## Ementa
